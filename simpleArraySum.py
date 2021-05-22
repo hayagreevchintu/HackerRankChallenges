@@ -1,3 +1,6 @@
+#Link to the challenge:
+#https://www.hackerrank.com/challenges/simple-array-sum/problem
+
 #stub code:
 import math
 import os
