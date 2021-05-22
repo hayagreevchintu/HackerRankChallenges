@@ -1,3 +1,6 @@
+#Challenge link:
+#https://www.hackerrank.com/challenges/most-commons/problem
+
 def fun(string):
     all_freq = {}
     for i in string:
