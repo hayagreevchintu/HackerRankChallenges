@@ -1,3 +1,6 @@
+#Link to the challenge:
+#https://www.hackerrank.com/challenges/alternating-characters/problem
+
 #Stub code:
 import math
 import os
