@@ -1,3 +1,6 @@
+#Link to the challenge:
+#https://www.hackerrank.com/challenges/electronics-shop/problem
+
 #Stub code:
 import os
 import sys
