@@ -1,5 +1,7 @@
-#Solution begins here:
+#Link to the challenge:
+#https://www.hackerrank.com/challenges/solve-me-first/problem
 
+#Solution begins here:
 def solveMeFirst(a,b):
 	return a + b
 
