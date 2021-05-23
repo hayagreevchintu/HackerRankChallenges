@@ -1,3 +1,6 @@
+#Link to the challenge:
+#https://www.hackerrank.com/challenges/mini-max-sum/problem
+
 #Stub code:
 import math
 import os
