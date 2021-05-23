@@ -1,3 +1,6 @@
+#Link to the challenge:
+#https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
 #Stub code:
 import math
 import os
