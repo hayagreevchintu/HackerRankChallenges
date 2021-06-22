@@ -11,7 +11,7 @@ import sys
 #Solution begins here:
 def miniMaxSum(arr):
     sum_arr = sum(arr)
-    print(str(sum_arr - max(arr)) + ' '+ str(sum_arr- min(arr)))
+    print(str(sum_arr - max(arr)) + ' '+ str(sum_arr - min(arr)))
 
 #Stub code:
 if __name__ == '__main__':
