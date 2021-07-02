@@ -1,3 +1,6 @@
+#Link to the challenge:
+#https://www.hackerrank.com/challenges/nested-list/problem
+
 student_list = []
 scores = []
 for _ in range(int(input())):
