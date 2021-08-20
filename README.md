@@ -1,2 +1,2 @@
 # HackerRankChallenges
-This repository contains solutions for all the HackerRank solutions that I have solved. Feel free to use this code in your projects or as a reference to solve those problems.
+This repository contains solutions for all the HackerRank solutions that I have solved. Feel free to use this code in your projects or as a reference to solve those problems.I solve all coding question in Python3. I have categorized this repository into two folders - Python and MySQL. As the name of the folders suggests, all coding problems are in the folder 'Python' and all SQL queries in the folder 'MySQL'.
